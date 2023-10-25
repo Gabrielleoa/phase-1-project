@@ -10,7 +10,6 @@ function getTriviaInformation(){
 }
 function displayTriviaQuestions(results){
     const triviaQuestions= document.getElementById("triviaQuestions");
-    const nextQuestion= document.getElementById("nextButton")
     for(const result of results) {
         console.log(result)
         let questions = document.getElementById("listOfQuestions")
@@ -31,11 +30,8 @@ function displayMultipleChoiceAnswers(result){
     
 }
 function displayCorrectAnswer(answers){
-    if (answers.answers= answers.correct_answer){
-        alert("correct")
-}else{
-    console.log("false")
+    
 }
-}
+
 
 
