@@ -15,36 +15,27 @@ function displayTriviaQuestions(results){
         console.log(result)
         let questions = document.getElementById("listOfQuestions")
         let li = document.createElement('li')
+       
         li.textContent= result.question
-        li.addEventListener('click', () => questions(result));
+        li.addEventListener('click', () => displayMultipleChoiceAnswers(result));
         questions.appendChild(li)
-        /*let answers = document.getElementById('triviaAnswers')
-        let lis= document.createElement('lis')
-        li.textContent= result.multiple_choice_answers
-        li.addEventListener('click', () => getAnswer(result));
-        answers.appendChild(li)
-        if(result.multiple_choice_answers === result.correct_answer){
-            return true
-        }else {
-            return false 
-
-
-    
-    }*/
 
 }
 }
 function displayMultipleChoiceAnswers(result){
     const answers = document.getElementById('triviaAnswers')
-        let ul= document.createElement('ul')
-        ul.textContent= result.multiple_choice_answers
-        ul.addEventListener('click', () => answers(result));
-        answers.appendChild(li)
-       /* if(results.multiple_choice_answers === results.correct_answer){
-            return true
-        }else {
-            return false */
+    answers.innerHTML=`<ol>${result.multiple_choice_answers}<ol>`
+    answers.addEventListener('click', () => displayCorrectAnswer(result));
+    
 
     
 }
-//}
+function displayCorrectAnswer(answers){
+    if (answers.answers= answers.correct_answer){
+        alert("correct")
+}else{
+    console.log("false")
+}
+}
+
+
