@@ -5,7 +5,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following was not one of &quot;The Magnificent Seven&quot;?",
+            "question": "Which of the following was not one of 'The Magnificent Seven'?",
             "correct_answer": "Clint Eastwood",
             "incorrect_answers": [
                 "Steve McQueen",
@@ -77,7 +77,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+            "question": "What was Dorothy's surname in 'The Wizard Of Oz&#039'?",
             "correct_answer": "Gale",
             "incorrect_answers": [
                 "Perkins",
@@ -89,7 +89,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "This movie contains the quote, &quot;Houston, we have a problem.&quot;",
+            "question": "This movie contains the quote, 'Houston, we have a problem.';",
             "correct_answer": "Apollo 13",
             "incorrect_answers": [
                 "The Right Stuff",
@@ -113,7 +113,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie &quot;Suicide Squad&quot;?",
+            "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie 'Suicide Squad'?",
             "correct_answer": "Scarlett Johansson",
             "incorrect_answers": [
                 "Jared Leto",
@@ -137,7 +137,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+            "question": "Who in Pulp Fiction says 'No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.",
             "correct_answer": "Vincent Vega",
             "incorrect_answers": [
                 "Jules Winnfield",
@@ -161,7 +161,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?",
+            "question": "In the 1995 film Balto, who are Steele's accomplices?",
             "correct_answer": "Kaltag, Nikki, and Star",
             "incorrect_answers": [
                 "Dusty, Kirby, and Ralph",
@@ -173,7 +173,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+            "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
             "correct_answer": "Groovy.",
             "incorrect_answers": [
                 "Gnarly.",
@@ -233,7 +233,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+            "question": "The 1996 film, Fargo is primarily set in which US state?",
             "correct_answer": "Minnesota",
             "incorrect_answers": [
                 "North Dakota",

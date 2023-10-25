@@ -1,1 +1,6 @@
-@import url("bootstrap.css");
+#listOfQuestions{
+    background-color:darkgreen;
+}
+.head{
+    color: #f0f;
+}
