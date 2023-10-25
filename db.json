@@ -7,7 +7,8 @@
             "difficulty": "easy",
             "question": "Which of the following was not one of 'The Magnificent Seven'?",
             "correct_answer": "Clint Eastwood",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Clint Eastwood",
                 "Steve McQueen",
                 "Charles Bronson",
                 "Robert Vaughn"
@@ -19,7 +20,8 @@
             "difficulty": "easy",
             "question": "Which of the following movies was not based on a novel by Stephen King? ",
             "correct_answer": "The Thing",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "The Thing",
                 "Carrie",
                 "Misery",
                 "The Green Mile"
@@ -31,7 +33,8 @@
             "difficulty": "easy",
             "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
             "correct_answer": "Harry Potter",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Harry Potter",
                 "Ted",
                 "Spy Kids",
                 "Pirates of the Caribbean "
@@ -43,7 +46,8 @@
             "difficulty": "easy",
             "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
             "correct_answer": "Wilson",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Wilson",
                 "Friday",
                 "Jones",
                 "Billy"
@@ -55,7 +59,8 @@
             "difficulty": "easy",
             "question": "Which animated movie was first to feature a celebrity as a voice actor?",
             "correct_answer": "Aladdin",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Aladdin",
                 "Toy Story",
                 "James and the Giant Peach",
                 "The Hunchback of Notre Dame"
@@ -67,7 +72,8 @@
             "difficulty": "easy",
             "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
             "correct_answer": "Highlander",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Highlander",
                 "Flash Gordon",
                 "Labyrinth",
                 "Howard the Duck"
@@ -79,7 +85,8 @@
             "difficulty": "easy",
             "question": "What was Dorothy's surname in 'The Wizard Of Oz&#039'?",
             "correct_answer": "Gale",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Gale",
                 "Perkins",
                 "Day",
                 "Parker"
@@ -91,7 +98,8 @@
             "difficulty": "easy",
             "question": "This movie contains the quote, 'Houston, we have a problem.';",
             "correct_answer": "Apollo 13",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Apollo 13",
                 "The Right Stuff",
                 "Capricorn One",
                 "Marooned"
@@ -103,7 +111,8 @@
             "difficulty": "easy",
             "question": "What was the first James Bond film?",
             "correct_answer": "Dr. No",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Dr. No",
                 "Goldfinger",
                 "From Russia With Love",
                 "Thunderball"
@@ -115,7 +124,8 @@
             "difficulty": "easy",
             "question": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie 'Suicide Squad'?",
             "correct_answer": "Scarlett Johansson",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Scarlett Johansson",
                 "Jared Leto",
                 "Will Smith",
                 "Margot Robbie"
@@ -127,7 +137,8 @@
             "difficulty": "easy",
             "question": "Which of these movies did Jeff Bridges not star in?",
             "correct_answer": "The Hateful Eight",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "The Hateful Eight",
                 "Tron: Legacy",
                 "The Giver",
                 "True Grit"
@@ -139,7 +150,8 @@
             "difficulty": "easy",
             "question": "Who in Pulp Fiction says 'No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.",
             "correct_answer": "Vincent Vega",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Vincent Vega",
                 "Jules Winnfield",
                 "Jimmie Dimmick",
                 "Butch Coolidge"
@@ -151,7 +163,8 @@
             "difficulty": "easy",
             "question": "In the 1992 film &quot;Army of Darkness&quot;, what name does Ash give to his double-barreled shotgun?",
             "correct_answer": "Boomstick",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Boomstick",
                 "Bloomstick",
                 "Blastbranch",
                 "2-Pump Chump"
@@ -163,7 +176,8 @@
             "difficulty": "easy",
             "question": "In the 1995 film Balto, who are Steele's accomplices?",
             "correct_answer": "Kaltag, Nikki, and Star",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Kaltag, Nikki, and Star",
                 "Dusty, Kirby, and Ralph",
                 "Nuk, Yak, and Sumac",
                 "Jenna, Sylvie, and Dixie"
@@ -175,7 +189,8 @@
             "difficulty": "easy",
             "question": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
             "correct_answer": "Groovy.",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Groovy",
                 "Gnarly.",
                 "Perfect.",
                 "Nice."
@@ -187,7 +202,8 @@
             "difficulty": "easy",
             "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
             "correct_answer": "San Fransokyo",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "San Fransokyo",
                 "San Tokyo",
                 "Tokysisco",
                 "Sankyo"
@@ -199,7 +215,8 @@
             "difficulty": "easy",
             "question": "Where does the original Friday The 13th movie take place?",
             "correct_answer": "Camp Crystal Lake",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Camp Crystal Lake",
                 "Packanack",
                 "Higgins Haven",
                 "Camp Forest Green"
@@ -211,7 +228,8 @@
             "difficulty": "easy",
             "question": "Which of these Movies was NOT released in 1996?",
             "correct_answer": "Gladiator",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Gladiator",
                 "Independence Day",
                 "The Rock",
                 "Mission: Impossible"
@@ -223,7 +241,8 @@
             "difficulty": "easy",
             "question": "Which of the following actors has only been in a Quentin Tarantino directed film once?",
             "correct_answer": "John Travolta",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "John Travolta",
                 "Christoph Waltz",
                 "Harvey Keitel",
                 "Samuel L. Jackson"
@@ -235,7 +254,8 @@
             "difficulty": "easy",
             "question": "The 1996 film, Fargo is primarily set in which US state?",
             "correct_answer": "Minnesota",
-            "incorrect_answers": [
+            "multiple_choice_answers": [
+                "Minnesota",
                 "North Dakota",
                 "South Dakota",
                 "Wisconsin"

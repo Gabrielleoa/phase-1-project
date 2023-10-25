@@ -1,6 +1,10 @@
-#listOfQuestions{
+#background{
     background-color:darkgreen;
 }
-.head{
+
+#idheader{
     color: #f0f;
+}
+#listOfQuestions{
+    display:block;
 }
