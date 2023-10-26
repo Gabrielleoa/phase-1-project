@@ -11,7 +11,7 @@ function getTriviaInformation(){
 function displayTriviaQuestions(results){
     const triviaQuestions= document.getElementById("triviaQuestions");
     for(const result of results) {
-        //console.log(result)
+        console.log(result)
         let questions = document.getElementById("listOfQuestions")
         let li = document.createElement('li')
        
@@ -23,16 +23,26 @@ function displayTriviaQuestions(results){
 }
 function displayMultipleChoiceAnswers(result){
     const answers = document.getElementById('triviaAnswers')
-    answers.innerHTML=`<ul>${result.multiple_choice_answers}<ul>`
-    answers.addEventListener('click', () => displayCorrectAnswer(result));
+    answers.innerHTML=`<b><ul>${result.multiple_choice_answers}<ul><b>`
+    //answers.addEventListener('click', () => displayCorrectAnswer(result));
+
+        
+    }
     
 
     
-}
+
 function displayCorrectAnswer(results){
+    const writtenAnswerChoice= document.getElementById("mb-3")
+    writtenAnswerChoice.innerHTML
+    if(writtenAnswerChoice == results.correctAnswer){
+       return true
+    }else{
+        return false
 
     
 }
 
 
 
+}

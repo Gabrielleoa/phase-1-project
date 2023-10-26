@@ -32,7 +32,7 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
-            "correct_answer": "Harry Potter",
+            "correctAnswer": "Harry Potter",
             "multiple_choice_answers": [
                 "Harry Potter",
                 "Ted",
