@@ -11,7 +11,7 @@ function getTriviaInformation(){
 function displayTriviaQuestions(results){
     const triviaQuestions= document.getElementById("triviaQuestions");
     for(const result of results) {
-        console.log(result)
+        //console.log(result)
         let questions = document.getElementById("listOfQuestions")
         let li = document.createElement('li')
        
@@ -23,13 +23,14 @@ function displayTriviaQuestions(results){
 }
 function displayMultipleChoiceAnswers(result){
     const answers = document.getElementById('triviaAnswers')
-    answers.innerHTML=`<ol>${result.multiple_choice_answers}<ol>`
+    answers.innerHTML=`<ul>${result.multiple_choice_answers}<ul>`
     answers.addEventListener('click', () => displayCorrectAnswer(result));
     
 
     
 }
-function displayCorrectAnswer(answers){
+function displayCorrectAnswer(results){
+
     
 }
 
