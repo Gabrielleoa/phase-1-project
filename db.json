@@ -2,19 +2,21 @@
     
     "results": [
         {
+            "id": 1,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
             "question": "Which of the following was not one of 'The Magnificent Seven'?",
             "correct_answer": "Clint Eastwood",
             "multiple_choice_answers": [
-                "Clint Eastwood",
-                "Steve McQueen",
-                "Charles Bronson",
-                "Robert Vaughn"
+                " Clint Eastwood ",
+                " Steve McQueen ",
+                " Charles Bronson ",
+                " Robert Vaughn "
             ]
         },
         {
+            "id": 2,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -28,6 +30,7 @@
             ]
         },
         {
+            "id": 3,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -41,6 +44,7 @@
             ]
         },
         {
+            "id": 4,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -54,6 +58,7 @@
             ]
         },
         {
+            "id": 5,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -67,6 +72,7 @@
             ]
         },
         {
+            "id": 6,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -80,10 +86,11 @@
             ]
         },
         {
+            "id": 7,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was Dorothy's surname in 'The Wizard Of Oz&#039'?",
+            "question": "What was Dorothy's surname in 'The Wizard Of Oz'?",
             "correct_answer": "Gale",
             "multiple_choice_answers": [
                 "Gale",
@@ -93,6 +100,7 @@
             ]
         },
         {
+            "id": 8,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -106,6 +114,7 @@
             ]
         },
         {
+            "id": 9,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -119,6 +128,7 @@
             ]
         },
         {
+            "id": 10,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -132,6 +142,7 @@
             ]
         },
         {
+            "id": 11,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -145,6 +156,7 @@
             ]
         },
         {
+            "id": 12,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -158,6 +170,7 @@
             ]
         },
         {
+            "id": 13,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -171,6 +184,7 @@
             ]
         },
         {
+            "id": 14,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -184,6 +198,7 @@
             ]
         },
         {
+            "id": 15,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -197,6 +212,7 @@
             ]
         },
         {
+            "id": 16,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -210,6 +226,7 @@
             ]
         },
         {
+            "id": 17,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -223,6 +240,7 @@
             ]
         },
         {
+            "id": 18,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -236,6 +254,7 @@
             ]
         },
         {
+            "id": 19,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
@@ -249,6 +268,7 @@
             ]
         },
         {
+            "id": 20,
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",

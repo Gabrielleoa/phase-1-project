@@ -21,17 +21,31 @@ function displayTriviaQuestions(results){
 
 }
 }
+let currentQuestion = {};
+
 function displayMultipleChoiceAnswers(result){
     const answers = document.getElementById('triviaAnswers')
     answers.innerHTML=`<b><ul>${result.multiple_choice_answers}<ul><b>`
-    document.getElementById("answerForm").addEventListener('submit', function(evt){
-        evt.preventDefault();
-        document.getElementById
-    })
+
+    currentQuestion = {...result}
+   
+    }
     //answers.addEventListener('click', () => displayCorrectAnswer(result));
 
         
-    }
+    document.querySelector("#answerForm").addEventListener("submit", function(event){
+        event.preventDefault()
+        const frm = new FormData(this)
+        const answer = frm.get("answer")
+
+        console.log(currentQuestion.correct_answer === answer)
+        console.log(answer)
+        if(answer === currentQuestion.correct_answer){
+            alert("correct!")
+        }else{
+            alert("false")
+        }
+    })
     
 
     
