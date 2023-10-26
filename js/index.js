@@ -24,6 +24,10 @@ function displayTriviaQuestions(results){
 function displayMultipleChoiceAnswers(result){
     const answers = document.getElementById('triviaAnswers')
     answers.innerHTML=`<b><ul>${result.multiple_choice_answers}<ul><b>`
+    document.getElementById("answerForm").addEventListener('submit', function(evt){
+        evt.preventDefault();
+        document.getElementById
+    })
     //answers.addEventListener('click', () => displayCorrectAnswer(result));
 
         
